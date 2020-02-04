@@ -34,7 +34,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://www.dewaplokis.com",
+  "start_url": "/",
   "background_color": "#fff",
   "display": "standalone",
   "scope": "/",
